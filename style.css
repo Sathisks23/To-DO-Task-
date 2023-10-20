@@ -1,0 +1,44 @@
+#container{
+
+  width: 550px;
+  padding-bottom: 60px;
+ 
+  border: 1px solid gray;
+  border-radius: 25px;
+  box-shadow:1px 1px 10px gray;
+  margin-top: 200px;
+  margin-left: 400px;
+ text-align: center;
+}
+
+
+
+
+input{
+    width: 80%;
+    height: 28px;
+    border-radius:13px;
+    border:1px solid grey;
+}
+
+h1{
+    color:#142153;
+}
+
+p{
+    color: red;
+    cursor: pointer;
+    position:static;
+    
+}
+
+button{
+    cursor: pointer;
+}
+
+li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
